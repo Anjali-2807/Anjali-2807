@@ -11,23 +11,23 @@
 ## About Me
 
 👋 **Hello! I’m Anjali Tiwari**  
-🎓 B.Tech in Computer Science & Engineering @NIT Raipur  
-💡 A curious mind with a passion for learning and growth  
+🎓 Currently pursuing B.Tech in Computer Science & Engineering @NIT Raipur  
+💡 A curious mind with a passion for learning and growth.
 
 ---
 
 ### 🔭 What I’m Doing  
-- Diving deep into **backend development**  
-- Exploring databases
+- Exploring technologies and upskilling myself.
+- Building projects to deepen my learnings.
 
-### ⚡ Fun Facts 
-☕ Powered by tea and determination  
-
-### 🤝 Let’s Connect  
-I love collaborating on open‑source projects and exchanging ideas. Feel free to reach out! 💬
+### ⚡ Fun Fact
+☕ Powered by coffee and determination  
 
 ## Tech Stack 💻 :
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+
+### 🤝 Let’s Connect  
+I love collaborating on open‑source projects and exchanging ideas. Feel free to reach out! 💬
 
 ## Socials 🌐 :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiwari-anjali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjali2006.tiwari@gmail.com) 
