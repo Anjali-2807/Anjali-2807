@@ -67,7 +67,7 @@ I love collaborating on open‑source projects and exchanging ideas. Feel free t
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Anjali-2807&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api?username=Anjali-2807&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false"
         alt="Stats"
         style="border:1px solid #fff; border-radius:8px; padding:4px;"
       />
