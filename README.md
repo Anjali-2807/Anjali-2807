@@ -6,8 +6,6 @@
   />
 </div>
 
-
-
 ## About Me
 
 👋 **Hello! I’m Anjali Tiwari**  
@@ -43,16 +41,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-
-
-
-
+---
 
 ### 🤝 Let’s Connect  
-I love collaborating on open‑source projects and exchanging ideas. Feel free to reach out! 💬
+I love collaborating on open-source projects and exchanging ideas. Feel free to reach out! 💬
 
 ## Socials 🌐 :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiwari-anjali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjali2006.tiwari@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiwari-anjali) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjali2006.tiwari@gmail.com) 
+
+---
 
 ## GitHub Stats 📊 :
 
@@ -60,14 +58,14 @@ I love collaborating on open‑source projects and exchanging ideas. Feel free t
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-2807&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-2807&theme=dark&hide_border=false&layout=compact"
         alt="Top Languages"
         style="border:1px solid #fff; border-radius:8px; padding:4px;"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Anjali-2807&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api?username=Anjali-2807&show_icons=true&count_private=true&hide_rank=true&theme=dark&hide_border=false"
         alt="Stats"
         style="border:1px solid #fff; border-radius:8px; padding:4px;"
       />
@@ -76,15 +74,12 @@ I love collaborating on open‑source projects and exchanging ideas. Feel free t
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://nirzak-streak-stats.vercel.app/?user=Anjali-2807&theme=dark&hide_border=false"
+        src="https://streak-stats.demolab.com?user=Anjali-2807&theme=dark&hide_border=false"
         alt="Streak"
         style="border:1px solid #fff; border-radius:8px; padding:4px;"
       />
     </td>
   </tr>
 </table>
-
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
