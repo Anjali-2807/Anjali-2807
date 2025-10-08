@@ -71,15 +71,4 @@ I love collaborating on open-source projects and exchanging ideas. Feel free to 
       />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=Anjali-2807&theme=dark&hide_border=false"
-        alt="Streak"
-        style="border:1px solid #fff; border-radius:8px; padding:4px;"
-      />
-    </td>
-  </tr>
 </table>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
