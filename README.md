@@ -52,23 +52,3 @@ I love collaborating on open-source projects and exchanging ideas. Feel free to 
 
 ---
 
-## GitHub Stats 📊 :
-
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-2807&theme=dark&hide_border=false&layout=compact"
-        alt="Top Languages"
-        style="border:1px solid #fff; border-radius:8px; padding:4px;"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Anjali-2807&show_icons=true&count_private=true&hide_rank=true&theme=dark&hide_border=false"
-        alt="Stats"
-        style="border:1px solid #fff; border-radius:8px; padding:4px;"
-      />
-    </td>
-  </tr>
-</table>
