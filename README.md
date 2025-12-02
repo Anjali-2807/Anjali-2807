@@ -50,5 +50,4 @@ I love collaborating on open-source projects and exchanging ideas. Feel free to 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiwari-anjali) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjali2006.tiwari@gmail.com) 
 
----
 
